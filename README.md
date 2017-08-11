@@ -13,5 +13,9 @@ Blog Un Mundo Feliz
  - este proyecto se trata de esto, 
  - que plugin instslar, caracteristica, 
  - como se desarrolla
+ 
+ [Roadmap]
+ 
+ [Licencia]
 
 
